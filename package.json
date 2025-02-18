@@ -1,0 +1,16 @@
+{
+  "name": "onix-api-response-handler",
+  "version": "1.0.0",
+  "description": "Tool for structured parsing of Onix API responses",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "onix",
+    "api",
+    "parser"
+  ],
+  "author": "",
+  "license": "MIT"
+}
